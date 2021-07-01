@@ -1,3 +1,7 @@
+My react app (Netflix_Clone):https://inspiring-poitras-a8b200.netlify.app/
+
+
+
 <!--- STARTEXCLUDE --->
 # 🎓 Netflix Clone using Astra DB and GraphQL
 
